@@ -11,7 +11,7 @@ import { useData } from "../contexts/DataContext";
 const HomePage = () => {
   const { products, banners, blogs, instagramPosts, features } = useData();
 
-  console.log(products);
+  console.log("Result: " + products);
 
   return (
     <div className="px-10 py-6 bg-[rgba(244,244,244,255)]">
