@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "customerName": "Nguyễn Văn Nam",
+    "gender": "Nam",
+    "date": "1995-01-15",
+    "phone": "0901234567",
+    "email": "nam01@gmail.com",
+    "img": "https://i.pinimg.com/736x/8d/2a/7a/8d2a7a0b367026459708a05d8e3ae3d4.jpg",
+    "address": [
+      {
+        "id": "1",
+        "name": "Chu văn bùi",
+        "phone": "0901234567",
+        "address": "Số 1, Đường ABC, Quận 1, TP.HCM",
+        "addressType": "home", 
+        "isDefault": false
+      },
+      {
+        "id": "2",
+        "name": "Nguyễn Văn Tèo",
+        "phone": "0901234567",
+        "address": "Số 1, Đường ABC, Quận 1, TP.HCM",
+        "addressType": "home", 
+        "isDefault": true
+      }
+    ]
+  }
+]
