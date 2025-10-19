@@ -43,20 +43,29 @@ const RegisterForm = ({ onSwitchToLogin, accounts, saveAccount }) => {
     return Object.keys(newErrors).length === 0;
   };
 
-  const handleRegister = (e) => {
+  const handleRegister = async (e) => {
     e.preventDefault();
     if (validate()) {
       const newAccount = {
-        //id: Math.max(...accounts.map((a) => a.id || 0), 0) + 1,
         userName: user,
         password: password,
         email: email,
         role: "customer",
       };
       console.log("Đăng ký thành công!", newAccount);
-      saveAccount(newAccount);
-      // Chuyển sang form đăng nhập sau khi đăng ký thành công
-      onSwitchToLogin();
+
+      const result = await saveAccount(newAccount);
+
+      if (result.success) {
+        // Chuyển sang form đăng nhập sau khi đăng ký thành công
+        onSwitchToLogin();
+      } else {
+        // Hiển thị lỗi từ backend
+        setErrors({
+          ...errors,
+          submit: result.error || "Đăng ký thất bại. Vui lòng thử lại.",
+        });
+      }
     }
   };
 
@@ -191,6 +200,12 @@ const RegisterForm = ({ onSwitchToLogin, accounts, saveAccount }) => {
             <p className="text-red-500 text-sm">{errors.termsAccepted}</p>
           )}
         </div>
+
+        {errors.submit && (
+          <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-xl">
+            {errors.submit}
+          </div>
+        )}
 
         <button
           type="submit"

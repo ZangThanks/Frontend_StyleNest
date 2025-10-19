@@ -23,18 +23,16 @@
         "content": "Áo thun nam trơn basic Just Tee được thiết kế với form regular fit, một dáng áo suông vừa vặn, không quá ôm sát cơ thể nhưng vẫn đảm bảo sự chỉn chu và gọn gàng. Form áo này phù hợp với đa dạng vóc dáng người mặc, giúp tôn lên những đường nét tự nhiên mà vẫn mang lại sự thoải mái tối đa trong mọi cử động. Bạn có thể dễ dàng vận động, làm việc hay tham gia các hoạt động thể thao nhẹ nhàng mà không cảm thấy bị gò bó. Đây là sự lựa chọn hoàn hảo cho những ai yêu thích sự thoải mái, không muốn cảm giác bó sát nhưng vẫn muốn duy trì một vẻ ngoài lịch sự và thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton mềm mại",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun nam trơn basic Just Tee luôn bền đẹp, bạn nên giặt tay hoặc máy ở chế độ nhẹ với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm phai màu hoặc hư hại sợi vải. Sau khi giặt, nên phơi áo ở nơi thoáng mát, tránh ánh nắng trực tiếp gắt để bảo vệ màu sắc và độ bền của chất liệu cotton. Việc chăm sóc đúng cách sẽ giúp chiếc áo của bạn luôn như mới và đồng hành cùng bạn trong thời gian dài."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton mềm mại",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun nam trơn basic Just Tee luôn bền đẹp, bạn nên giặt tay hoặc máy ở chế độ nhẹ với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm phai màu hoặc hư hại sợi vải. Sau khi giặt, nên phơi áo ở nơi thoáng mát, tránh ánh nắng trực tiếp gắt để bảo vệ màu sắc và độ bền của chất liệu cotton. Việc chăm sóc đúng cách sẽ giúp chiếc áo của bạn luôn như mới và đồng hành cùng bạn trong thời gian dài."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunamtronbasicjusttee1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunamtronbasicjusttee2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunamtronbasicjusttee3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunamtronbasicjusttee1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunamtronbasicjusttee2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunamtronbasicjusttee3.jpg"
     ],
     "id": "1",
     "rating": 4,
@@ -67,19 +65,17 @@
         "content": "Với màu sắc basic và kiểu dáng timeless, chiếc áo thun nam slim fit basic của MAVERICK mang đến khả năng phối đồ linh hoạt đáng kinh ngạc. Bạn có thể dễ dàng tạo ra nhiều phong cách khác nhau chỉ với một chiếc áo thun này. Để có một diện mạo casual và thoải mái, hãy kết hợp áo với quần jeans và giày thể thao. Nếu bạn muốn một vẻ ngoài lịch sự và chỉn chu hơn, hãy thử phối cùng quần âu và giày tây. Thậm chí, bạn có thể khoác thêm một chiếc áo blazer để tạo nên phong cách smart-casual ấn tượng. Áo thun basic này thực sự là một item đa năng, giúp bạn tự tin thể hiện phong cách riêng trong mọi hoàn cảnh."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Thun",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun nam slim fit basic luôn bền màu và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến chất liệu và màu sắc của thun. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ sợi vải và màu sắc. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều năm tới."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Thun",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun nam slim fit basic luôn bền màu và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến chất liệu và màu sắc của thun. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ sợi vải và màu sắc. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều năm tới."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamslimfitbasic1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamslimfitbasic2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamslimfitbasic3.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamslimfitbasic4.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamslimfitbasic1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamslimfitbasic2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamslimfitbasic3.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamslimfitbasic4.jpg"
     ],
     "id": "2",
     "rating": 4,
@@ -112,18 +108,16 @@
         "content": "Áo thun nam Oxford dài tay của VIET TAILOR được thiết kế với form regular fit, một dáng áo suông vừa vặn, không quá ôm sát cơ thể nhưng vẫn đảm bảo sự gọn gàng và chỉn chu. Form áo này phù hợp với nhiều dáng người khác nhau, mang lại sự thoải mái tối đa trong mọi hoạt động. Bạn có thể dễ dàng kết hợp áo với quần âu, quần kaki hay thậm chí là quần jeans để tạo nên nhiều phong cách khác nhau tùy theo sở thích và hoàn cảnh. Sự thoải mái và tính ứng dụng cao của form regular fit khiến chiếc áo thun này trở thành một lựa chọn lý tưởng cho гардероб hàng ngày của bạn."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton Oxford",
-        "fabric": "Oxford",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun nam Oxford dài tay luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ nhẹ với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải. Sau khi giặt, nên phơi áo ở nơi thoáng gió và có thể ủi ở nhiệt độ vừa phải để loại bỏ nếp nhăn và giữ cho áo luôn phẳng phiu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều dịp khác nhau."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton Oxford",
+      "fabric": "Oxford",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun nam Oxford dài tay luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ nhẹ với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải. Sau khi giặt, nên phơi áo ở nơi thoáng gió và có thể ủi ở nhiệt độ vừa phải để loại bỏ nếp nhăn và giữ cho áo luôn phẳng phiu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều dịp khác nhau."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamoxford1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamoxford2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamoxford3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamoxford1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamoxford2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamoxford3.jpg"
     ],
     "id": "3",
     "rating": 4,
@@ -138,7 +132,7 @@
     "type": "Áo Thun",
     "price": 250000,
     "discount": 20,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["S", "M", "L", "XL"],
     "condition": true,
     "SKU": "ATPBC022-03",
@@ -156,20 +150,18 @@
         "content": "Áo thun polo nam basic cotton được thiết kế với form regular fit, một dáng áo suông vừa vặn, không quá ôm sát cơ thể nhưng vẫn đảm bảo sự chỉn chu và lịch sự. Form áo này phù hợp với nhiều dáng người khác nhau, mang lại sự thoải mái tối đa trong mọi cử động. Bạn có thể dễ dàng vận động, làm việc hay tham gia các hoạt động thể thao nhẹ nhàng mà không cảm thấy bị gò bó. Sự thoải mái và tính ứng dụng cao của form regular fit khiến chiếc áo thun polo này trở thành một lựa chọn không thể thiếu trong tủ đồ của những người đàn ông hiện đại và năng động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cá sấu",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun polo nam basic cotton luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải thun cá sấu. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ màu sắc và độ bền của chất liệu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun polo của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều dịp khác nhau."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cá sấu",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun polo nam basic cotton luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải thun cá sấu. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ màu sắc và độ bền của chất liệu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun polo của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều dịp khác nhau."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunpolonambasic1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunpolonambasic2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunpolonambasic3.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunpolonambasic4.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunpolonambasic5.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunpolonambasic1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunpolonambasic2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunpolonambasic3.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunpolonambasic4.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunpolonambasic5.jpg"
     ],
     "id": "4",
     "rating": 4,
@@ -202,18 +194,16 @@
         "content": "Áo thun short kaki nam basic được thiết kế với form regular fit, một dáng áo suông vừa vặn, không quá ôm sát nhưng vẫn đảm bảo sự gọn gàng và lịch sự. Form áo này phù hợp với nhiều dáng người khác nhau, mang lại sự tự do trong mọi cử động. Bạn có thể dễ dàng tham gia các hoạt động ngoài trời, vui chơi cùng bạn bè mà không cảm thấy bị gò bó. Sự thoải mái và tính ứng dụng cao của form regular fit khiến chiếc áo thun kaki này trở thành một lựa chọn lý tưởng cho những ngày hè năng động và thoải mái của bạn."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton Kaki",
-        "fabric": "Kaki",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun short kaki nam basic luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải kaki. Sau khi giặt, nên phơi áo ở nơi thoáng gió và có thể ủi ở nhiệt độ vừa phải để loại bỏ nếp nhăn và giữ cho áo luôn phẳng phiu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều mùa hè tới."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton Kaki",
+      "fabric": "Kaki",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun short kaki nam basic luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải kaki. Sau khi giặt, nên phơi áo ở nơi thoáng gió và có thể ủi ở nhiệt độ vừa phải để loại bỏ nếp nhăn và giữ cho áo luôn phẳng phiu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều mùa hè tới."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunshortkakinam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunshortkakinam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunshortkakinam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunshortkakinam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunshortkakinam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunshortkakinam3.jpg"
     ],
     "id": "5",
     "rating": 4,
@@ -246,19 +236,17 @@
         "content": "Áo thun nam graphic tee cool được thiết kế với form regular fit, một dáng áo suông vừa vặn, không quá ôm sát cơ thể nhưng vẫn đảm bảo sự gọn gàng và thoải mái. Form áo này phù hợp với nhiều dáng người khác nhau, mang lại sự tự do trong mọi cử động. Bạn có thể dễ dàng kết hợp áo với quần jeans, quần short hay quần jogger để tạo nên những phong cách năng động và trẻ trung. Sự thoải mái và tính thời trang của form regular fit khiến chiếc áo thun graphic tee này trở thành một item không thể thiếu trong tủ đồ của những người đàn ông hiện đại và cá tính."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun nam graphic tee cool luôn bền đẹp và hình in không bị phai màu hay bong tróc, bạn nên giặt máy ở chế độ nhẹ với nước lạnh hoặc ấm. Tránh vò mạnh hoặc sử dụng bàn chải chà trực tiếp lên hình in. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ màu sắc và độ bền của hình in. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun graphic tee của bạn luôn trông như mới và thể hiện được phong cách riêng của bạn trong thời gian dài."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun nam graphic tee cool luôn bền đẹp và hình in không bị phai màu hay bong tróc, bạn nên giặt máy ở chế độ nhẹ với nước lạnh hoặc ấm. Tránh vò mạnh hoặc sử dụng bàn chải chà trực tiếp lên hình in. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ màu sắc và độ bền của hình in. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun graphic tee của bạn luôn trông như mới và thể hiện được phong cách riêng của bạn trong thời gian dài."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamgraphic1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamgraphic2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamgraphic3.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamgraphic4.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamgraphic1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamgraphic2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamgraphic3.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamgraphic4.jpg"
     ],
     "id": "6",
     "rating": 4,
@@ -291,18 +279,16 @@
         "content": "Áo thun jogger nam thể thao của SPORT ACTIVE được thiết kế với sự tiện lợi tối đa cho người sử dụng. Sản phẩm có thể được trang bị các túi nhỏ ở tay hoặc thân áo, giúp bạn dễ dàng mang theo điện thoại, ví tiền hay chìa khóa trong quá trình tập luyện hoặc di chuyển. Các chi tiết như đường may chắc chắn, khóa kéo bền bỉ (nếu có) cũng được chú trọng để đảm bảo độ bền và tính thẩm mỹ của sản phẩm. Với sự kết hợp hoàn hảo giữa chất liệu cao cấp, kiểu dáng thời trang và tính tiện dụng, chiếc áo thun jogger này chắc chắn sẽ là người bạn đồng hành lý tưởng của bạn trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "95% Cotton, 5% Spandex",
-        "fabric": "Thun da cá",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun jogger nam thể thao luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng thuốc tẩy mạnh có thể làm ảnh hưởng đến màu sắc và độ co giãn của chất liệu thun da cá. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ chất liệu và màu sắc. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun jogger của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều buổi tập luyện."
-      }
-    ,
+    "details": {
+      "material": "95% Cotton, 5% Spandex",
+      "fabric": "Thun da cá",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun jogger nam thể thao luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng thuốc tẩy mạnh có thể làm ảnh hưởng đến màu sắc và độ co giãn của chất liệu thun da cá. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ chất liệu và màu sắc. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun jogger của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều buổi tập luyện."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunjoggernam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunjoggernam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunjoggernam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunjoggernam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunjoggernam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunjoggernam3.jpg"
     ],
     "id": "7",
     "rating": 4,
@@ -335,19 +321,17 @@
         "content": "Áo thun khoác gió nam basic của WIND BREAKER được thiết kế với sự tiện lợi tối đa cho người sử dụng. Áo được trang bị các túi khóa kéo an toàn ở hai bên hông và có thể có thêm túi bên trong, giúp bạn dễ dàng mang theo các vật dụng cá nhân như điện thoại, ví tiền hay chìa khóa mà không lo bị rơi rớt. Phần khóa kéo trung tâm chắc chắn và bền bỉ, giúp bạn dễ dàng mặc và cởi áo. Với sự kết hợp hoàn hảo giữa chất liệu chống gió, kiểu dáng практичный và các chi tiết tiện lợi, chiếc áo thun khoác gió này chắc chắn sẽ là người bạn đồng hành đáng tin cậy của bạn trong mọi hoàn cảnh thời tiết."
       }
     ],
-    "details": 
-      {
-        "material": "100% Polyester",
-        "fabric": "Vải gió",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun khoác gió nam basic luôn bền đẹp và giữ được khả năng chống gió, bạn nên giặt tay nhẹ nhàng với nước lạnh hoặc ấm. Tránh giặt máy và sử dụng các chất tẩy mạnh có thể làm hư hại lớp phủ chống thấm nước của vải gió. Sau khi giặt, nên phơi áo ở nơi thoáng gió, tránh ánh nắng trực tiếp gắt để bảo vệ chất liệu và màu sắc. Không nên ủi áo ở nhiệt độ cao vì có thể làm chảy hoặc biến dạng vải. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun khoác gió của bạn luôn như mới và đồng hành cùng bạn trong nhiều chuyến đi."
-      }
-    ,
+    "details": {
+      "material": "100% Polyester",
+      "fabric": "Vải gió",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun khoác gió nam basic luôn bền đẹp và giữ được khả năng chống gió, bạn nên giặt tay nhẹ nhàng với nước lạnh hoặc ấm. Tránh giặt máy và sử dụng các chất tẩy mạnh có thể làm hư hại lớp phủ chống thấm nước của vải gió. Sau khi giặt, nên phơi áo ở nơi thoáng gió, tránh ánh nắng trực tiếp gắt để bảo vệ chất liệu và màu sắc. Không nên ủi áo ở nhiệt độ cao vì có thể làm chảy hoặc biến dạng vải. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun khoác gió của bạn luôn như mới và đồng hành cùng bạn trong nhiều chuyến đi."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunkhoacgionam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunkhoacgionam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunkhoacgionam3.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunkhoacgionam4.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunkhoacgionam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunkhoacgionam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunkhoacgionam3.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunkhoacgionam4.jpg"
     ],
     "id": "8",
     "rating": 4,
@@ -380,18 +364,16 @@
         "content": "Áo thun nam cổ tròn tay ngắn của SIMPLE TEE được thiết kế với form slim fit, một dáng áo ôm nhẹ cơ thể, giúp tôn lên những đường nét nam tính mà vẫn đảm bảo sự thoải mái vừa phải. Form áo này không quá bó sát, mang lại sự tự tin và vẻ ngoài gọn gàng cho người mặc. Bạn có thể dễ dàng kết hợp áo với áo khoác ngoài, sơ mi khoác ngoài hay mặc đơn lẻ đều phù hợp. Sự vừa vặn và стильный của form slim fit khiến chiếc áo thun này trở thành một lựa chọn lý tưởng cho những ai yêu thích vẻ ngoài trẻ trung và năng động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun nam cổ tròn tay ngắn luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải cotton. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ màu sắc và độ bền của chất liệu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều mùa hè tới."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun nam cổ tròn tay ngắn luôn bền đẹp và giữ được form dáng, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải cotton. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ màu sắc và độ bền của chất liệu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều mùa hè tới."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamcotron1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamcotron2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamcotron3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamcotron1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamcotron2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamcotron3.jpg"
     ],
     "id": "9",
     "rating": 4,
@@ -424,18 +406,16 @@
         "content": "Áo thun nam cổ lọ basic của KNITWEAR CO. được thiết kế với form slim fit, một dáng áo ôm nhẹ cơ thể, giúp tôn lên những đường nét nam tính mà vẫn đảm bảo sự thoải mái vừa phải. Form áo này không quá bó sát, mang lại vẻ ngoài gọn gàng và стильный cho người mặc. Bạn có thể dễ dàng kết hợp áo với áo khoác ngoài như áo vest, áo blazer hay áo da để tạo nên những outfit ấm áp và thời trang trong mùa đông. Sự vừa vặn và стильный của form slim fit khiến chiếc áo thun này trở thành một lựa chọn lý tưởng cho những ai yêu thích vẻ ngoàih lịch và hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "Acrylic, Wool",
-        "fabric": "Thun len",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun nam cổ lọ basic luôn bền đẹp và giữ được độ mềm mại của chất liệu thun len, bạn nên giặt tay nhẹ nhàng với nước lạnh hoặc ấm. Tránh giặt máy và sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến chất liệu len. Sau khi giặt, nên vắt nhẹ và phơi áo ngang trên mặt phẳng để tránh bị растяжение. Không nên ủi áo thun ở nhiệt độ cao. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn ấm áp và стильный trong nhiều mùa đông tới."
-      }
-    ,
+    "details": {
+      "material": "Acrylic, Wool",
+      "fabric": "Thun len",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun nam cổ lọ basic luôn bền đẹp và giữ được độ mềm mại của chất liệu thun len, bạn nên giặt tay nhẹ nhàng với nước lạnh hoặc ấm. Tránh giặt máy và sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến chất liệu len. Sau khi giặt, nên vắt nhẹ và phơi áo ngang trên mặt phẳng để tránh bị растяжение. Không nên ủi áo thun ở nhiệt độ cao. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn ấm áp và стильный trong nhiều mùa đông tới."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamcolo1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamcolo2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamcolo3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamcolo1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamcolo2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamcolo3.jpg"
     ],
     "id": "10",
     "rating": 4,
@@ -468,19 +448,17 @@
         "content": "Với màu sắc basic và kiểu dáng classic, chiếc áo thun âu nam dáng suông của CLASSIC TAILOR là một item không thể thiếu trong гардероб của những người đàn ông theo đuổi phong cách lịch lãm. Bạn có thể dễ dàng tạo ra vẻ ngoài chuyên nghiệp khi kết hợp áo với quần âu, áo vest và giày tây. Sự đơn giản và tinh tế trong thiết kế giúp bạn luôn tự tin và nổi bật trong mọi tình huống. Đây thực sự là một sự đầu tư thông minh cho phong cách cá nhân của bạn, giúp bạn xây dựng hình ảnh một quý ông lịch lãm và thành đạt."
       }
     ],
-    "details": 
-      {
-        "material": "Polyester, Rayon",
-        "fabric": "Vải tây",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun âu nam dáng suông classic luôn bền đẹp và giữ được form dáng, bạn nên giặt khô hoặc giặt tay nhẹ nhàng với nước lạnh. Tránh giặt máy và sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến chất liệu và màu sắc của vải tây. Sau khi giặt, nên phơi áo ở nơi thoáng gió và ủi ở nhiệt độ thấp hoặc trung bình để loại bỏ nếp nhăn và giữ cho áo luôn phẳng phiu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều dịp quan trọng."
-      }
-    ,
+    "details": {
+      "material": "Polyester, Rayon",
+      "fabric": "Vải tây",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun âu nam dáng suông classic luôn bền đẹp và giữ được form dáng, bạn nên giặt khô hoặc giặt tay nhẹ nhàng với nước lạnh. Tránh giặt máy và sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến chất liệu và màu sắc của vải tây. Sau khi giặt, nên phơi áo ở nơi thoáng gió và ủi ở nhiệt độ thấp hoặc trung bình để loại bỏ nếp nhăn và giữ cho áo luôn phẳng phiu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều dịp quan trọng."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunaundangsuong1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunaundangsuong2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunaundangsuong3.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunaundangsuong4.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunaundangsuong1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunaundangsuong2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunaundangsuong3.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunaundangsuong4.jpg"
     ],
     "id": 11,
     "rating": 4,
@@ -513,18 +491,16 @@
         "content": "Áo thun nam tay dài basic của LONG SLEEVE được thiết kế với form regular fit, một dáng áo suông vừa vặn, không quá ôm sát cơ thể nhưng vẫn đảm bảo sự gọn gàng và thoải mái. Form áo này phù hợp với nhiều dáng người khác nhau, mang lại sự tự do trong mọi cử động. Bạn có thể dễ dàng vận động, làm việc hay tham gia các hoạt động thể thao nhẹ nhàng mà không cảm thấy bị gò bó. Sự thoải mái và tính ứng dụng cao của form regular fit khiến chiếc áo thun tay dài này trở thành một lựa chọn lý tưởng cho гардероб hàng ngày của bạn."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun nam tay dài basic luôn bền đẹp và giữ được độ mềm mại của chất liệu cotton, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ màu sắc và độ bền của chất liệu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều mùa."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun nam tay dài basic luôn bền đẹp và giữ được độ mềm mại của chất liệu cotton, bạn nên giặt máy ở chế độ thường với nước lạnh hoặc ấm. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến màu sắc và chất liệu vải. Nên lộn trái áo khi giặt và phơi ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ màu sắc và độ bền của chất liệu. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun của bạn luôn trông như mới và đồng hành cùng bạn trong nhiều mùa."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamtaydai1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamtaydai2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamtaydai3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamtaydai1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamtaydai2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamtaydai3.jpg"
     ],
     "id": "12",
     "rating": 4,
@@ -557,19 +533,17 @@
         "content": "Áo thun short thể thao nam của FITNESS GEAR được thiết kế với sự tiện dụng tối đa cho người sử dụng. Áo thường được trang bị các túi bên hông, giúp bạn dễ dàng mang theo các vật dụng cá nhân nhỏ như điện thoại, chìa khóa hay tai nghe trong quá trình tập luyện. Các chi tiết như đường may chắc chắn và chất liệu bền bỉ đảm bảo độ bền của sản phẩm ngay cả khi sử dụng thường xuyên. Với sự kết hợp hoàn hảo giữa chất liệu thoáng mát, kiểu dáng năng động và tính tiện dụng, chiếc áo thun short thể thao này chắc chắn sẽ là người bạn đồng hành lý tưởng của bạn trong mọi buổi tập luyện."
       }
     ],
-    "details": 
-      {
-        "material": "Polyester",
-        "fabric": "Thun lạnh",
-        "origin": "Việt Nam",
-        "careInstructions": "Để giữ cho chiếc áo thun short thể thao nam luôn bền đẹp và giữ được tính năng của chất liệu thun lạnh, bạn nên giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến chất liệu và màu sắc của vải. Nên phơi áo ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ chất liệu và màu sắc. Chất liệu thun lạnh thường khô rất nhanh, vì vậy bạn không cần phải lo lắng về thời gian phơi. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun thể thao của bạn luôn như mới và đồng hành cùng bạn trong nhiều buổi tập luyện."
-      }
-    ,
+    "details": {
+      "material": "Polyester",
+      "fabric": "Thun lạnh",
+      "origin": "Việt Nam",
+      "careInstructions": "Để giữ cho chiếc áo thun short thể thao nam luôn bền đẹp và giữ được tính năng của chất liệu thun lạnh, bạn nên giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng các chất tẩy mạnh có thể làm ảnh hưởng đến chất liệu và màu sắc của vải. Nên phơi áo ở nơi thoáng gió, tránh ánh nắng trực tiếp để bảo vệ chất liệu và màu sắc. Chất liệu thun lạnh thường khô rất nhanh, vì vậy bạn không cần phải lo lắng về thời gian phơi. Việc chăm sóc đúng cách sẽ giúp chiếc áo thun thể thao của bạn luôn như mới và đồng hành cùng bạn trong nhiều buổi tập luyện."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunshortthethao1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunshortthethao2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunshortthethao3.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunshortthethao4.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunshortthethao1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunshortthethao2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunshortthethao3.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunshortthethao4.jpg"
     ],
     "id": "13",
     "rating": 4,
@@ -602,21 +576,19 @@
         "content": "Áo thun được thiết kế với form regular fit, vừa vặn, không ôm sát, mang lại sự thoải mái tối đa cho người mặc. Form dáng này phù hợp với nhiều vóc dáng, giúp bạn tự tin trong mọi hoạt động, từ đi chơi, dạo phố đến các buổi gặp gỡ bạn bè."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh sử dụng chất tẩy mạnh và phơi dưới ánh nắng trực tiếp để giữ màu sắc bền lâu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh sử dụng chất tẩy mạnh và phơi dưới ánh nắng trực tiếp để giữ màu sắc bền lâu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunngantayhoatiet1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunngantayhoatiet2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunngantayhoatiet3.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunngantayhoatiet4.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunngantayhoatiet5.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunngantayhoatiet6.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunngantayhoatiet1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunngantayhoatiet2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunngantayhoatiet3.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunngantayhoatiet4.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunngantayhoatiet5.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunngantayhoatiet6.jpg"
     ],
     "id": "14",
     "rating": 4,
@@ -649,18 +621,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng, nam tính. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang hiện đại, năng động nhưng vẫn muốn giữ được sự thoải mái."
       }
     ],
-    "details": 
-      {
-        "material": "95% Cotton, 5% Spandex",
-        "fabric": "Thun co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát và lộn trái áo khi giặt để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "95% Cotton, 5% Spandex",
+      "fabric": "Thun co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát và lộn trái áo khi giặt để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunslimfit1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunslimfit2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunslimfit3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunslimfit1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunslimfit2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunslimfit3.jpg"
     ],
     "id": "15",
     "rating": 4,
@@ -693,18 +663,16 @@
         "content": "Form regular fit rộng rãi, phù hợp với nhiều dáng người, mang lại sự thoải mái và dễ chịu. Áo dễ dàng phối với quần jeans hoặc quần jogger để tạo phong cách casual, năng động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh phơi dưới ánh nắng trực tiếp để bảo vệ màu sắc. Ủi ở nhiệt độ thấp nếu cần."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh phơi dưới ánh nắng trực tiếp để bảo vệ màu sắc. Ủi ở nhiệt độ thấp nếu cần."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamtronbasic1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamtronbasic2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamtronbasic3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamtronbasic1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamtronbasic2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamtronbasic3.jpg"
     ],
     "id": "16",
     "rating": 4,
@@ -737,19 +705,17 @@
         "content": "Áo thun oversize là item không thể thiếu cho những ai yêu thích phong cách đường phố. Sự thoải mái và tính linh hoạt trong phối đồ khiến chiếc áo này trở thành lựa chọn hàng đầu cho các bạn trẻ."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunpolocaocap1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunpolocaocap2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunpolocaocap3.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunpolocaocap4.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunpolocaocap1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunpolocaocap2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunpolocaocap3.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunpolocaocap4.jpg"
     ],
     "id": "17",
     "rating": 4,
@@ -782,18 +748,16 @@
         "content": "Form regular fit vừa vặn, không quá bó, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích sự đơn giản nhưng vẫn muốn giữ được phong cách."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu logo. Phơi ở nơi thoáng mát để bảo vệ chất liệu và màu sắc."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu logo. Phơi ở nơi thoáng mát để bảo vệ chất liệu và màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolothethaonam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolothethaonam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolothethaonam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolothethaonam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolothethaonam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolothethaonam3.jpg"
     ],
     "id": "18",
     "rating": 4,
@@ -826,18 +790,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại sự gọn gàng. Đây là lựa chọn hoàn hảo cho những ai muốn kết hợp giữa sự thoải mái và phong cách thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton Pique",
-        "fabric": "Thun cá sấu",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton Pique",
+      "fabric": "Thun cá sấu",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamdaitay1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamdaitay2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamdaitay3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamdaitay1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamdaitay2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamdaitay3.jpg"
     ],
     "id": "19",
     "rating": 4,
@@ -870,18 +832,16 @@
         "content": "Form regular fit rộng rãi, không bó sát, mang lại sự thoải mái tối đa khi vận động. Áo dễ dàng phối với quần short hoặc quần jogger để tạo phong cách thể thao."
       }
     ],
-    "details": 
-      {
-        "material": "100% Polyester",
-        "fabric": "Vải chống nắng",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi khô tự nhiên để bảo vệ lớp chống nắng."
-      }
-    ,
+    "details": {
+      "material": "100% Polyester",
+      "fabric": "Vải chống nắng",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi khô tự nhiên để bảo vệ lớp chống nắng."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamslimfit1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamslimfit2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamslimfit3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamslimfit1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamslimfit2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamslimfit3.jpg"
     ],
     "id": "20",
     "rating": 4,
@@ -914,18 +874,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunhenleynamsngantay1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunhenleynamsngantay2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunhenleynamsngantay3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunhenleynamsngantay1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunhenleynamsngantay2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunhenleynamsngantay3.jpg"
     ],
     "id": "21",
     "rating": 4,
@@ -958,18 +916,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang tinh tế."
       }
     ],
-    "details": 
-      {
-        "material": "Acrylic, Cotton",
-        "fabric": "Dệt kim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt tay nhẹ nhàng với nước lạnh. Tránh giặt máy để bảo vệ chất liệu dệt kim. Phơi ngang trên mặt phẳng để tránh giãn."
-      }
-    ,
+    "details": {
+      "material": "Acrylic, Cotton",
+      "fabric": "Dệt kim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt tay nhẹ nhàng với nước lạnh. Tránh giặt máy để bảo vệ chất liệu dệt kim. Phơi ngang trên mặt phẳng để tránh giãn."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcotru1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcotru2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcotru3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcotru1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcotru2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcotru3.jpg"
     ],
     "id": "22",
     "rating": 4,
@@ -1002,18 +958,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách đơn giản và bền bỉ."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonammau-sactuoisang1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonammau-sactuoisang2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonammau-sactuoisang3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonammau-sactuoisang1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonammau-sactuoisang2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonammau-sactuoisang3.jpg"
     ],
     "id": "23",
     "rating": 4,
@@ -1046,18 +1000,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại sự thoải mái khi vận động. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thể thao hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "Polyester",
-        "fabric": "Thun lạnh",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi khô tự nhiên để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "Polyester",
+      "fabric": "Thun lạnh",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi khô tự nhiên để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamkengang1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamkengang2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamkengang3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamkengang1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamkengang2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamkengang3.jpg"
     ],
     "id": "24",
     "rating": 4,
@@ -1090,18 +1042,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamchatlieulinen1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamchatlieulinen2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamchatlieulinen3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamchatlieulinen1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamchatlieulinen2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamchatlieulinen3.jpg"
     ],
     "id": "25",
     "rating": 4,
@@ -1116,7 +1066,7 @@
     "type": "Áo Thun",
     "price": 260000,
     "discount": 10,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["S", "M", "L"],
     "condition": true,
     "SKU": "ATNHB018-26",
@@ -1134,18 +1084,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách đơn giản và tinh tế."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamtuinguc1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamtuinguc2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamtuinguc3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamtuinguc1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamtuinguc2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamtuinguc3.jpg"
     ],
     "id": "26",
     "rating": 4,
@@ -1178,18 +1126,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách đơn giản và tiện dụng."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamkengang1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamkengang2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamkengang3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamkengang1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamkengang2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamkengang3.jpg"
     ],
     "id": "27",
     "rating": 4,
@@ -1222,18 +1168,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamdaitay1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamdaitay2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamdaitay3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamdaitay1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamdaitay2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamdaitay3.jpg"
     ],
     "id": "28",
     "rating": 4,
@@ -1266,18 +1210,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "Acrylic, Wool",
-        "fabric": "Thun len",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt tay nhẹ nhàng với nước lạnh. Tránh giặt máy để bảo vệ chất liệu len. Phơi ngang trên mặt phẳng để tránh giãn."
-      }
-    ,
+    "details": {
+      "material": "Acrylic, Wool",
+      "fabric": "Thun len",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt tay nhẹ nhàng với nước lạnh. Tránh giặt máy để bảo vệ chất liệu len. Phơi ngang trên mặt phẳng để tránh giãn."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonammaupastel1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonammaupastel2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonammaupastel3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonammaupastel1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonammaupastel2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonammaupastel3.jpg"
     ],
     "id": "29",
     "rating": 4,
@@ -1310,18 +1252,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamhoatiet1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamhoatiet2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aothunnamhoatiet3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamhoatiet1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamhoatiet2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aothunnamhoatiet3.jpg"
     ],
     "id": "30",
     "rating": 4,
@@ -1336,7 +1276,7 @@
     "type": "Áo Thun",
     "price": 200000,
     "discount": 15,
-    "colors": ["white", "black"], 
+    "colors": ["white", "black"],
     "size": ["S", "M", "L", "XL"],
     "condition": true,
     "SKU": "ATNCL023-31",
@@ -1354,18 +1294,16 @@
         "content": "Form regular fit vừa vặn, không quá bó, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích sự đơn giản và tính ứng dụng cao trong trang phục."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ logo in. Tránh sử dụng chất tẩy mạnh và phơi dưới ánh nắng trực tiếp để giữ màu sắc bền lâu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ logo in. Tránh sử dụng chất tẩy mạnh và phơi dưới ánh nắng trực tiếp để giữ màu sắc bền lâu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcodien1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcodien2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcodien3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcodien1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcodien2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcodien3.jpg"
     ],
     "id": "31",
     "rating": 4,
@@ -1398,18 +1336,16 @@
         "content": "Form regular fit rộng rãi, mang lại sự thoải mái và linh hoạt trong mọi cử động. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang năng động."
       }
     ],
-    "details": 
-      {
-        "material": "80% Cotton, 20% Polyester",
-        "fabric": "Thun cotton pha",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "80% Cotton, 20% Polyester",
+      "fabric": "Thun cotton pha",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolothethaonamcaocap2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolothethaonamcaocap3.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolothethaonamcaocap1.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolothethaonamcaocap2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolothethaonamcaocap3.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolothethaonamcaocap1.jpg"
     ],
     "id": "32",
     "rating": 4,
@@ -1424,7 +1360,7 @@
     "type": "Áo Thun",
     "price": 270000,
     "discount": 20,
-    "colors": ["black", "gray"], 
+    "colors": ["black", "gray"],
     "size": ["M", "L", "XL"],
     "condition": true,
     "SKU": "ATNDP025-33",
@@ -1442,18 +1378,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang tinh tế và năng động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh phơi dưới ánh nắng trực tiếp để bảo vệ màu sắc. Ủi ở nhiệt độ thấp nếu cần."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh phơi dưới ánh nắng trực tiếp để bảo vệ màu sắc. Ủi ở nhiệt độ thấp nếu cần."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamphoimau1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamphoimau2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamphoimau3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamphoimau1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamphoimau2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamphoimau3.jpg"
     ],
     "id": "33",
     "rating": 4,
@@ -1486,18 +1420,16 @@
         "content": "Áo thun oversize là item không thể thiếu cho những ai yêu thích phong cách đường phố. Sự thoải mái và tính linh hoạt trong phối đồ khiến chiếc áo này trở thành lựa chọn hàng đầu."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamkengang1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamkengang2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamkengang3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamkengang1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamkengang2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamkengang3.jpg"
     ],
     "id": "34",
     "rating": 4,
@@ -1530,18 +1462,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng, nam tính. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "95% Cotton, 5% Spandex",
-        "fabric": "Thun co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát và lộn trái áo khi giặt để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "95% Cotton, 5% Spandex",
+      "fabric": "Thun co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát và lộn trái áo khi giặt để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonaminlogonho1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonaminlogonho2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonaminlogonho3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonaminlogonho1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonaminlogonho2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonaminlogonho3.jpg"
     ],
     "id": "35",
     "rating": 4,
@@ -1556,7 +1486,7 @@
     "type": "Áo Thun",
     "price": 240000,
     "discount": 20,
-    "colors": ["white", "black"], 
+    "colors": ["white", "black"],
     "size": ["S", "M", "L"],
     "condition": true,
     "SKU": "ATNHF028-36",
@@ -1574,18 +1504,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcov1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcov2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcov3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcov1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcov2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcov3.jpg"
     ],
     "id": "36",
     "rating": 4,
@@ -1618,18 +1546,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang tinh tế."
       }
     ],
-    "details": 
-      {
-        "material": "Acrylic, Cotton",
-        "fabric": "Dệt kim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt tay nhẹ nhàng với nước lạnh. Tránh giặt máy để bảo vệ chất liệu dệt kim. Phơi ngang trên mặt phẳng để tránh giãn."
-      }
-    ,
+    "details": {
+      "material": "Acrylic, Cotton",
+      "fabric": "Dệt kim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt tay nhẹ nhàng với nước lạnh. Tránh giặt máy để bảo vệ chất liệu dệt kim. Phơi ngang trên mặt phẳng để tránh giãn."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamchatlieubamboo1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamchatlieubamboo2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamchatlieubamboo3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamchatlieubamboo1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamchatlieubamboo2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamchatlieubamboo3.jpg"
     ],
     "id": "37",
     "rating": 4,
@@ -1644,7 +1570,7 @@
     "type": "Áo Thun",
     "price": 260000,
     "discount": 30,
-    "colors": ["white", "black"], 
+    "colors": ["white", "black"],
     "size": ["S", "M", "L"],
     "condition": true,
     "SKU": "ATNCT030-38",
@@ -1662,18 +1588,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu họa tiết. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu họa tiết. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamdangrong1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamdangrong2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamdangrong3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamdangrong1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamdangrong2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamdangrong3.jpg"
     ],
     "id": "38",
     "rating": 4,
@@ -1688,7 +1612,7 @@
     "type": "Áo Thun",
     "price": 310000,
     "discount": 35,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["M", "L", "XL"],
     "condition": true,
     "SKU": "ATNCD031-39",
@@ -1706,18 +1630,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang tinh tế."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton Pique",
-        "fabric": "Thun cá sấu",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton Pique",
+      "fabric": "Thun cá sấu",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonaminhinh1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonaminhinh2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonaminhinh3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonaminhinh1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonaminhinh2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonaminhinh3.jpg"
     ],
     "id": "39",
     "rating": 4,
@@ -1732,7 +1654,7 @@
     "type": "Áo Thun",
     "price": 200000,
     "discount": 10,
-    "colors": ["black", "gray"], 
+    "colors": ["black", "gray"],
     "size": ["M", "L", "XL"],
     "condition": true,
     "SKU": "ATNCT032-40",
@@ -1750,18 +1672,16 @@
         "content": "Form regular fit rộng rãi, mang lại sự thoải mái tối đa khi vận động. Áo dễ dàng phối với quần short hoặc quần jogger để tạo phong cách thể thao."
       }
     ],
-    "details": 
-      {
-        "material": "Polyester",
-        "fabric": "Thun lạnh",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi khô tự nhiên để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "Polyester",
+      "fabric": "Thun lạnh",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi khô tự nhiên để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcaocap1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcaocap2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aopolonamcaocap3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcaocap1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcaocap2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aopolonamcaocap3.jpg"
     ],
     "id": "40",
     "rating": 4,
@@ -1794,18 +1714,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosominamtronbasicdaitay1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosominamtronbasicdaitay2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosominamtronbasicdaitay3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosominamtronbasicdaitay1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosominamtronbasicdaitay2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosominamtronbasicdaitay3.jpg"
     ],
     "id": "41",
     "rating": 4,
@@ -1820,7 +1738,7 @@
     "type": "Áo Thun",
     "price": 210000,
     "discount": 15,
-    "colors": ["white", "black"], 
+    "colors": ["white", "black"],
     "size": ["S", "M", "L"],
     "condition": true,
     "SKU": "ATNCP034-42",
@@ -1838,18 +1756,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách đơn giản và tiện dụng."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicarongantay1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicarongantay2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicarongantay3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicarongantay1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicarongantay2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicarongantay3.jpg"
     ],
     "id": "42",
     "rating": 4,
@@ -1882,18 +1798,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomidenimdaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomidenimdaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomidenimdaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomidenimdaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomidenimdaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomidenimdaitaynam3.jpg"
     ],
     "id": "43",
     "rating": 4,
@@ -1926,18 +1840,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang năng động."
       }
     ],
-    "details": 
-      {
-        "material": "80% Cotton, 20% Polyester",
-        "fabric": "Thun cotton pha",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "80% Cotton, 20% Polyester",
+      "fabric": "Thun cotton pha",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomioxforddaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomioxforddaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomioxforddaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomioxforddaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomioxforddaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomioxforddaitaynam3.jpg"
     ],
     "id": "44",
     "rating": 4,
@@ -1970,18 +1882,16 @@
         "content": "Form regular fit rộng rãi, không bó sát, mang lại sự thoải mái tối đa khi vận động. Áo dễ dàng phối với quần short hoặc quần jogger để tạo phong cách thể thao."
       }
     ],
-    "details": 
-      {
-        "material": "100% Polyester",
-        "fabric": "Vải chống nắng",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi khô tự nhiên để bảo vệ lớp chống nắng."
-      }
-    ,
+    "details": {
+      "material": "100% Polyester",
+      "fabric": "Vải chống nắng",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi khô tự nhiên để bảo vệ lớp chống nắng."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomilennamngantay1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomilennamngantay2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomilennamngantay3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomilennamngantay1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomilennamngantay2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomilennamngantay3.jpg"
     ],
     "id": "45",
     "rating": 4,
@@ -2014,18 +1924,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomihoatietnhodaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomihoatietnhodaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomihoatietnhodaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomihoatietnhodaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomihoatietnhodaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomihoatietnhodaitaynam3.jpg"
     ],
     "id": "46",
     "rating": 4,
@@ -2040,7 +1948,7 @@
     "type": "Áo Thun",
     "price": 300000,
     "discount": 30,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["M", "L", "XL"],
     "condition": true,
     "SKU": "ATNPP039-47",
@@ -2058,18 +1966,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang tinh tế."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton Pique",
-        "fabric": "Thun cá sấu",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton Pique",
+      "fabric": "Thun cá sấu",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomislimfitdaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomislimfitdaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomislimfitdaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomislimfitdaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomislimfitdaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomislimfitdaitaynam3.jpg"
     ],
     "id": "47",
     "rating": 4,
@@ -2084,7 +1990,7 @@
     "type": "Áo Thun",
     "price": 260000,
     "discount": null,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["S", "M", "L"],
     "condition": true,
     "SKU": "ATNCT040-48",
@@ -2102,18 +2008,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách đơn giản và bền bỉ."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomikesocdaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomikesocdaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomikesocdaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomikesocdaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomikesocdaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomikesocdaitaynam3.jpg"
     ],
     "id": "48",
     "rating": 4,
@@ -2128,7 +2032,7 @@
     "type": "Áo Thun",
     "price": 310000,
     "discount": 10,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["M", "L", "XL"],
     "condition": true,
     "SKU": "ATNCT041-49",
@@ -2146,18 +2050,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang tinh tế."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton Pique",
-        "fabric": "Thun cá sấu",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu logo. Ủi ở nhiệt độ trung bình để giữ form áo."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton Pique",
+      "fabric": "Thun cá sấu",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu logo. Ủi ở nhiệt độ trung bình để giữ form áo."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicocubangantaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicocubangantaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicocubangantaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicocubangantaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicocubangantaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicocubangantaynam3.jpg"
     ],
     "id": "49",
     "rating": 4,
@@ -2172,7 +2074,7 @@
     "type": "Áo Thun",
     "price": 220000,
     "discount": 30,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["S", "M", "L"],
     "condition": true,
     "SKU": "ATNCP042-50",
@@ -2190,18 +2092,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách đơn giản và tiện dụng."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomivaiduidaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomivaiduidaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomivaiduidaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomivaiduidaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomivaiduidaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomivaiduidaitaynam3.jpg"
     ],
     "id": "50",
     "rating": 4,
@@ -2234,18 +2134,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomihoatietlonngantaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomihoatietlonngantaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomihoatietlonngantaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomihoatietlonngantaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomihoatietlonngantaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomihoatietlonngantaynam3.jpg"
     ],
     "id": "51",
     "rating": 4,
@@ -2260,7 +2158,7 @@
     "type": "Áo Thun",
     "price": 220000,
     "discount": 15,
-    "colors": ["white", "black"], 
+    "colors": ["white", "black"],
     "size": ["S", "M", "L"],
     "condition": true,
     "SKU": "ATNCP044-52",
@@ -2278,18 +2176,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách đơn giản và tiện dụng."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomitaynganformrongnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomitaynganformrongnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomitaynganformrongnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomitaynganformrongnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomitaynganformrongnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomitaynganformrongnam3.jpg"
     ],
     "id": "52",
     "rating": 4,
@@ -2322,18 +2218,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu slogan. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu slogan. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomimau-sactuoisangdaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomimau-sactuoisangdaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomimau-sactuoisangdaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomimau-sactuoisangdaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomimau-sactuoisangdaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomimau-sactuoisangdaitaynam3.jpg"
     ],
     "id": "53",
     "rating": 4,
@@ -2366,18 +2260,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang năng động."
       }
     ],
-    "details": 
-      {
-        "material": "80% Cotton, 20% Polyester",
-        "fabric": "Thun cotton pha",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "80% Cotton, 20% Polyester",
+      "fabric": "Thun cotton pha",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomidenimngantaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomidenimngantaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomidenimngantaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomidenimngantaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomidenimngantaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomidenimngantaynam3.jpg"
     ],
     "id": "54",
     "rating": 4,
@@ -2392,7 +2284,7 @@
     "type": "Áo Thun",
     "price": 260000,
     "discount": 20,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["S", "M", "L"],
     "condition": true,
     "SKU": "ATNDP047-55",
@@ -2410,18 +2302,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách đơn giản và tiện dụng."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ chất liệu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomioxfordngantaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomioxfordngantaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomioxfordngantaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomioxfordngantaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomioxfordngantaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomioxfordngantaynam3.jpg"
     ],
     "id": "55",
     "rating": 4,
@@ -2454,18 +2344,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomilendaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomilendaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomilendaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomilendaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomilendaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomilendaitaynam3.jpg"
     ],
     "id": "56",
     "rating": 4,
@@ -2480,7 +2368,7 @@
     "type": "Áo Thun",
     "price": 320000,
     "discount": 15,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["M", "L", "XL"],
     "condition": true,
     "SKU": "ATNPD049-57",
@@ -2498,18 +2386,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang tinh tế."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton Pique",
-        "fabric": "Thun cá sấu",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton Pique",
+      "fabric": "Thun cá sấu",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomihoatietlondaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomihoatietlondaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomihoatietlondaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomihoatietlondaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomihoatietlondaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomihoatietlondaitaynam3.jpg"
     ],
     "id": "57",
     "rating": 4,
@@ -2542,18 +2428,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomitayloformrongnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomitayloformrongnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomitayloformrongnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomitayloformrongnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomitayloformrongnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomitayloformrongnam3.jpg"
     ],
     "id": "58",
     "rating": 4,
@@ -2586,18 +2470,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang tinh tế."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton Pique",
-        "fabric": "Thun cá sấu",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton Pique",
+      "fabric": "Thun cá sấu",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh sử dụng chất tẩy mạnh. Ủi ở nhiệt độ trung bình để giữ form áo."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomimaupasteldaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomimaupasteldaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomimaupasteldaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomimaupasteldaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomimaupasteldaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomimaupasteldaitaynam3.jpg"
     ],
     "id": "59",
     "rating": 4,
@@ -2630,18 +2512,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicaocapdaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicaocapdaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicaocapdaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicaocapdaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicaocapdaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicaocapdaitaynam3.jpg"
     ],
     "id": "60",
     "rating": 4,
@@ -2674,18 +2554,16 @@
         "content": "Form regular fit vừa vặn, mang lại sự thoải mái và dễ chịu. Áo phù hợp với nhiều dáng người, giúp bạn tự tin trong mọi hoạt động."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp để giữ màu sắc bền lâu."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp để giữ màu sắc bền lâu."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongsuongbasic1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongsuongbasic2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongsuongbasic3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongsuongbasic1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongsuongbasic2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongsuongbasic3.jpg"
     ],
     "id": "61",
     "rating": 4,
@@ -2700,7 +2578,7 @@
     "type": "Áo Thun",
     "price": 320000,
     "discount": 10,
-    "colors": ["black", "white"], 
+    "colors": ["black", "white"],
     "size": ["M", "L", "XL"],
     "condition": true,
     "SKU": "ATNPE054-62",
@@ -2718,18 +2596,16 @@
         "content": "Form slim fit ôm nhẹ cơ thể, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách thời trang tinh tế."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton Pique",
-        "fabric": "Thun cá sấu",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu hình. Ủi ở nhiệt độ trung bình để giữ form áo."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton Pique",
+      "fabric": "Thun cá sấu",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Tránh chà mạnh phần thêu hình. Ủi ở nhiệt độ trung bình để giữ form áo."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicaocapdaitaynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicaocapdaitaynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/aosomicaocapdaitaynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicaocapdaitaynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicaocapdaitaynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/aosomicaocapdaitaynam3.jpg"
     ],
     "id": "62",
     "rating": 4,
@@ -2744,7 +2620,7 @@
     "type": "Quần Jeans",
     "price": 240000,
     "discount": 15,
-    "colors": ["black", "gray"], 
+    "colors": ["black", "gray"],
     "size": ["S", "M", "L"],
     "condition": true,
     "SKU": "ATNCP055-63",
@@ -2762,18 +2638,16 @@
         "content": "Quần jeans rách gối là item không thể thiếu cho những ai theo đuổi phong cách streetwear năng động."
       }
     ],
-    "details": 
-      {
-        "material": "80% Cotton, 20% Polyester",
-        "fabric": "Thun cotton pha",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "80% Cotton, 20% Polyester",
+      "fabric": "Thun cotton pha",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ thường với nước lạnh. Tránh sử dụng chất tẩy mạnh. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansrachgoinam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansrachgoinam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansrachgoinam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansrachgoinam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansrachgoinam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansrachgoinam3.jpg"
     ],
     "id": "63",
     "rating": 4,
@@ -2806,18 +2680,16 @@
         "content": "Quần jeans ống côn dễ dàng kết hợp với nhiều loại giày và áo khác nhau."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Thun cotton",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Thun cotton",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái áo khi giặt để bảo vệ họa tiết in. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongconnambasic1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongconnambasic2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongconnambasic3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongconnambasic1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongconnambasic2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongconnambasic3.jpg"
     ],
     "id": "64",
     "rating": 4,
@@ -2850,18 +2722,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Phù hợp cho nhiều dáng người và các dịp casual."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc và chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc và chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeanscapcaonam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeanscapcaonam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeanscapcaonam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeanscapcaonam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeanscapcaonam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeanscapcaonam3.jpg"
     ],
     "id": "65",
     "rating": 4,
@@ -2894,18 +2764,16 @@
         "content": "Form straight fit rộng rãi từ đùi đến gấu, mang lại sự thoải mái và phù hợp cho nhiều dáng người. Đây là lựa chọn lý tưởng cho những ai yêu thích phong cách truyền thống."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansbaggynam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansbaggynam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansbaggynam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansbaggynam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansbaggynam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansbaggynam3.jpg"
     ],
     "id": "66",
     "rating": 4,
@@ -2938,18 +2806,16 @@
         "content": "Form skinny fit ôm sát từ đùi đến mắt cá, tạo cảm giác thời thượng và năng động. Lựa chọn hoàn hảo cho những ai yêu thích phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongloenam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongloenam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongloenam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongloenam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongloenam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongloenam3.jpg"
     ],
     "id": "67",
     "rating": 4,
@@ -2982,18 +2848,16 @@
         "content": "Form relaxed fit rộng rãi từ hông đến gấu, mang lại sự thoải mái tối đa. Phù hợp cho những ai ưu tiên sự dễ chịu trong phong cách thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeanstrangnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeanstrangnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeanstrangnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeanstrangnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeanstrangnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeanstrangnam3.jpg"
     ],
     "id": "68",
     "rating": 4,
@@ -3026,18 +2890,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Phù hợp cho nhiều dịp từ casual đến bán trang trọng."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansmauxamnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansmauxamnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansmauxamnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansmauxamnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansmauxamnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansmauxamnam3.jpg"
     ],
     "id": "69",
     "rating": 4,
@@ -3070,18 +2932,16 @@
         "content": "Form skinny fit ôm sát từ hông đến mắt cá, tạo cảm giác thời trang và năng động. Lựa chọn lý tưởng cho những ai yêu thích phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongsuongdungnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongsuongdungnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongsuongdungnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongsuongdungnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongsuongdungnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongsuongdungnam3.jpg"
     ],
     "id": "70",
     "rating": 4,
@@ -3114,18 +2974,16 @@
         "content": "Form straight fit rộng rãi từ đùi đến gấu, mang lại sự thoải mái và phù hợp cho nhiều dáng người. Đây là lựa chọn lý tưởng cho phong cách cổ điển."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansvagonam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansvagonam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansvagonam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansvagonam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansvagonam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansvagonam3.jpg"
     ],
     "id": "71",
     "rating": 4,
@@ -3158,18 +3016,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Phù hợp cho nhiều dịp từ casual đến bán trang trọng."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongsuongrongnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongsuongrongnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansongsuongrongnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongsuongrongnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongsuongrongnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansongsuongrongnam3.jpg"
     ],
     "id": "72",
     "rating": 4,
@@ -3202,18 +3058,16 @@
         "content": "Form relaxed fit rộng rãi từ hông đến gấu, mang lại sự thoải mái tối đa. Phù hợp cho những ai ưu tiên sự dễ chịu trong phong cách thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansmaukemnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansmaukemnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansmaukemnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansmaukemnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansmaukemnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansmaukemnam3.jpg"
     ],
     "id": "73",
     "rating": 4,
@@ -3246,18 +3100,16 @@
         "content": "Form skinny fit ôm sát từ hông đến mắt cá, tạo cảm giác thời trang và năng động. Lựa chọn lý tưởng cho những ai yêu thích phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansonglungnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansonglungnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeansonglungnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansonglungnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansonglungnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeansonglungnam3.jpg"
     ],
     "id": "74",
     "rating": 4,
@@ -3290,18 +3142,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Lý tưởng cho các dịp casual."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeanspremiumnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeanspremiumnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanjeanspremiumnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeanspremiumnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeanspremiumnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanjeanspremiumnam3.jpg"
     ],
     "id": "75",
     "rating": 4,
@@ -3334,18 +3184,16 @@
         "content": "Form straight fit rộng rãi từ đùi đến gấu, mang lại sự thoải mái và phù hợp cho nhiều dáng người. Lựa chọn lý tưởng cho phong cách truyền thống."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortnambasiccotton1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortnambasiccotton2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortnambasiccotton3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortnambasiccotton1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortnambasiccotton2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortnambasiccotton3.jpg"
     ],
     "id": "76",
     "rating": 4,
@@ -3360,7 +3208,7 @@
     "type": "Quần Jeans",
     "price": 465000,
     "discount": 5,
-    "colors": ["blue"], 
+    "colors": ["blue"],
     "size": ["S", "M", "L", "XL"],
     "condition": true,
     "SKU": "QJNST013-77",
@@ -3378,18 +3226,16 @@
         "content": "Form skinny fit ôm sát từ hông đến mắt cá, tạo cảm giác thời thượng và năng động. Lựa chọn hoàn hảo cho phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjeansngan1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjeansngan2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjeansngan3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjeansngan1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjeansngan2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjeansngan3.jpg"
     ],
     "id": "77",
     "rating": 4,
@@ -3422,18 +3268,16 @@
         "content": "Form relaxed fit rộng rãi từ hông đến gấu, mang lại sự thoải mái tối đa. Phù hợp cho những ai ưu tiên sự dễ chịu trong phong cách thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortkakituihopnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortkakituihopnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortkakituihopnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortkakituihopnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortkakituihopnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortkakituihopnam3.jpg"
     ],
     "id": "78",
     "rating": 4,
@@ -3466,18 +3310,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Lý tưởng cho các dịp casual."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortthethaongan1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortthethaongan2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortthethaongan3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortthethaongan1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortthethaongan2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortthethaongan3.jpg"
     ],
     "id": "79",
     "rating": 4,
@@ -3510,18 +3352,16 @@
         "content": "Form straight fit rộng rãi từ đùi đến gấu, mang lại sự thoải mái và phù hợp cho nhiều dáng người. Lựa chọn lý tưởng cho phong cách truyền thống."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortlinenthoangmat1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortlinenthoangmat2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortlinenthoangmat3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortlinenthoangmat1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortlinenthoangmat2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortlinenthoangmat3.jpg"
     ],
     "id": "80",
     "rating": 4,
@@ -3554,18 +3394,16 @@
         "content": "Form skinny fit ôm sát từ hông đến mắt cá, tạo cảm giác thời thượng và năng động. Lựa chọn hoàn hảo cho phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjoggerthunnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjoggerthunnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjoggerthunnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjoggerthunnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjoggerthunnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjoggerthunnam3.jpg"
     ],
     "id": "81",
     "rating": 4,
@@ -3598,18 +3436,16 @@
         "content": "Form relaxed fit rộng rãi từ hông đến gấu, mang lại sự thoải mái tối đa. Phù hợp cho những ai ưu tiên sự dễ chịu trong phong cách thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortkakingannam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortkakingannam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortkakingannam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortkakingannam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortkakingannam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortkakingannam3.jpg"
     ],
     "id": "82",
     "rating": 4,
@@ -3642,18 +3478,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Lý tưởng cho các dịp casual."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjeansrachnhenam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjeansrachnhenam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjeansrachnhenam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjeansrachnhenam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjeansrachnhenam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjeansrachnhenam3.jpg"
     ],
     "id": "83",
     "rating": 4,
@@ -3686,18 +3520,16 @@
         "content": "Form skinny fit ôm sát từ hông đến mắt cá, tạo cảm giác thời thượng và năng động. Lựa chọn hoàn hảo cho phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortthethaodai1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortthethaodai2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortthethaodai3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortthethaodai1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortthethaodai2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortthethaodai3.jpg"
     ],
     "id": "84",
     "rating": 4,
@@ -3730,18 +3562,16 @@
         "content": "Form straight fit rộng rãi từ đùi đến gấu, mang lại sự thoải mái và phù hợp cho nhiều dáng người. Lựa chọn lý tưởng cho phong cách cổ điển."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortlinenkecsoc1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortlinenkecsoc2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortlinenkecsoc3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortlinenkecsoc1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortlinenkecsoc2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortlinenkecsoc3.jpg"
     ],
     "id": "85",
     "rating": 4,
@@ -3774,18 +3604,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Lý tưởng cho các dịp casual."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjoggerkakinam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjoggerkakinam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjoggerkakinam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjoggerkakinam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjoggerkakinam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjoggerkakinam3.jpg"
     ],
     "id": "86",
     "rating": 4,
@@ -3800,7 +3628,7 @@
     "type": "Quần Jeans",
     "price": 430000,
     "discount": 3,
-    "colors": ["blue"], 
+    "colors": ["blue"],
     "size": ["S", "M", "L", "XL"],
     "condition": true,
     "SKU": "QJNRF023-87",
@@ -3818,18 +3646,16 @@
         "content": "Form relaxed fit rộng rãi từ hông đến gấu, mang lại sự thoải mái tối đa. Phù hợp cho những ai ưu tiên sự dễ chịu trong phong cách thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjeansongrongnam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjeansongrongnam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortjeansongrongnam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjeansongrongnam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjeansongrongnam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortjeansongrongnam3.jpg"
     ],
     "id": "87",
     "rating": 4,
@@ -3862,18 +3688,16 @@
         "content": "Form skinny fit ôm sát từ hông đến mắt cá, tạo cảm giác thời thượng và năng động. Lựa chọn hoàn hảo cho phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortthethaoinlogonam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortthethaoinlogonam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortthethaoinlogonam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortthethaoinlogonam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortthethaoinlogonam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortthethaoinlogonam3.jpg"
     ],
     "id": "88",
     "rating": 4,
@@ -3906,18 +3730,16 @@
         "content": "Form straight fit rộng rãi từ đùi đến gấu, mang lại sự thoải mái và phù hợp cho nhiều dáng người. Lựa chọn lý tưởng cho phong cách truyền thống."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortkakidangngannam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortkakidangngannam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortkakidangngannam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortkakidangngannam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortkakidangngannam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortkakidangngannam3.jpg"
     ],
     "id": "89",
     "rating": 4,
@@ -3950,18 +3772,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Lý tưởng cho các dịp casual."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortpremiumchatluongcaonam1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortpremiumchatluongcaonam2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quanshortpremiumchatluongcaonam3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortpremiumchatluongcaonam1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortpremiumchatluongcaonam2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quanshortpremiumchatluongcaonam3.jpg"
     ],
     "id": "90",
     "rating": 4,
@@ -3994,18 +3814,16 @@
         "content": "Form skinny fit ôm sát từ hông đến mắt cá, tạo cảm giác thời thượng và năng động. Lựa chọn hoàn hảo cho phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongsuongbasic1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongsuongbasic2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongsuongbasic3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongsuongbasic1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongsuongbasic2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongsuongbasic3.jpg"
     ],
     "id": "91",
     "rating": 4,
@@ -4038,18 +3856,16 @@
         "content": "Form relaxed fit rộng rãi từ hông đến gấu, mang lại sự thoải mái tối đa. Phù hợp cho những ai ưu tiên sự dễ chịu trong phong cách thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamslimfit1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamslimfit2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamslimfit3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamslimfit1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamslimfit2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamslimfit3.jpg"
     ],
     "id": "92",
     "rating": 4,
@@ -4082,18 +3898,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Lý tưởng cho các dịp casual."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ chi tiết rách. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongcon1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongcon2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongcon3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongcon1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongcon2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongcon3.jpg"
     ],
     "id": "93",
     "rating": 4,
@@ -4126,18 +3940,16 @@
         "content": "Form straight fit rộng rãi từ đùi đến gấu, mang lại sự thoải mái và phù hợp cho nhiều dáng người. Lựa chọn lý tưởng cho phong cách cổ điển."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Ủi ở nhiệt độ trung bình để giữ form quần."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamcapcao1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamcapcao2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamcapcao3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamcapcao1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamcapcao2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamcapcao3.jpg"
     ],
     "id": "94",
     "rating": 4,
@@ -4170,18 +3982,16 @@
         "content": "Form skinny fit ôm sát từ hông đến mắt cá, tạo cảm giác thời thượng và năng động. Lựa chọn hoàn hảo cho phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongrong1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongrong2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongrong3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongrong1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongrong2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongrong3.jpg"
     ],
     "id": "95",
     "rating": 4,
@@ -4214,18 +4024,16 @@
         "content": "Form relaxed fit rộng rãi từ hông đến gấu, mang lại sự thoải mái tối đa. Phù hợp cho những ai ưu tiên sự dễ chịu trong phong cách thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynammaube1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynammaube2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynammaube3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynammaube1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynammaube2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynammaube3.jpg"
     ],
     "id": "96",
     "rating": 4,
@@ -4258,18 +4066,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Lý tưởng cho các dịp casual."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamkesoc1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamkesoc2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamkesoc3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamkesoc1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamkesoc2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamkesoc3.jpg"
     ],
     "id": "97",
     "rating": 4,
@@ -4302,18 +4108,16 @@
         "content": "Form skinny fit ôm sát từ hông đến mắt cá, tạo cảm giác thời thượng và năng động. Lựa chọn hoàn hảo cho phong cách hiện đại."
       }
     ],
-    "details": 
-      {
-        "material": "97% Cotton, 3% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
-      }
-    ,
+    "details": {
+      "material": "97% Cotton, 3% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh sử dụng chất tẩy mạnh."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongsuonglung1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongsuonglung2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynamongsuonglung3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongsuonglung1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongsuonglung2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynamongsuonglung3.jpg"
     ],
     "id": "98",
     "rating": 4,
@@ -4346,18 +4150,16 @@
         "content": "Form relaxed fit rộng rãi từ hông đến gấu, mang lại sự thoải mái tối đa. Phù hợp cho những ai ưu tiên sự dễ chịu trong phong cách thời trang."
       }
     ],
-    "details": 
-      {
-        "material": "100% Cotton",
-        "fabric": "Denim",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
-      }
-    ,
+    "details": {
+      "material": "100% Cotton",
+      "fabric": "Denim",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Giặt riêng để tránh phai màu. Phơi ở nơi thoáng mát để bảo vệ màu sắc."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynambluenavy1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynambluenavy2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynambluenavy3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynambluenavy1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynambluenavy2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynambluenavy3.jpg"
     ],
     "id": "99",
     "rating": 4,
@@ -4390,18 +4192,16 @@
         "content": "Form slim fit ôm vừa vặn từ đùi đến mắt cá, giúp tôn dáng và mang lại vẻ ngoài gọn gàng. Lý tưởng cho các dịp casual."
       }
     ],
-    "details": 
-      {
-        "material": "98% Cotton, 2% Spandex",
-        "fabric": "Denim co giãn",
-        "origin": "Việt Nam",
-        "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
-      }
-    ,
+    "details": {
+      "material": "98% Cotton, 2% Spandex",
+      "fabric": "Denim co giãn",
+      "origin": "Việt Nam",
+      "careInstructions": "Giặt máy ở chế độ nhẹ với nước lạnh. Lộn trái quần khi giặt để bảo vệ màu sắc. Tránh phơi dưới ánh nắng trực tiếp."
+    },
     "thumbnails": [
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynampremiumcaocap1.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynampremiumcaocap2.jpg",
-      "https://fashion-website-stylenest.onrender.com/imgs/quantaynampremiumcaocap3.jpg"
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynampremiumcaocap1.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynampremiumcaocap2.jpg",
+      "https://backend-stylenest-service.onrender.com/imgs/quantaynampremiumcaocap3.jpg"
     ],
     "id": "100",
     "rating": 4,
