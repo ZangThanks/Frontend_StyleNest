@@ -47,7 +47,7 @@ const RegisterForm = ({ onSwitchToLogin, accounts, saveAccount }) => {
     e.preventDefault();
     if (validate()) {
       const newAccount = {
-        id: Math.max(...accounts.map((a) => a.id || 0), 0) + 1,
+        //id: Math.max(...accounts.map((a) => a.id || 0), 0) + 1,
         userName: user,
         password: password,
         email: email,
@@ -103,7 +103,9 @@ const RegisterForm = ({ onSwitchToLogin, accounts, saveAccount }) => {
               errors.email ? "border-red-500" : "border-gray-200"
             } rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-gray-300 transition-all duration-200`}
           />
-          {errors.email && <p className="text-red-500 text-sm">{errors.email}</p>}
+          {errors.email && (
+            <p className="text-red-500 text-sm">{errors.email}</p>
+          )}
         </div>
 
         <div className="space-y-2">
