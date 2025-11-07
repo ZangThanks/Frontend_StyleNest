@@ -134,12 +134,12 @@ const AdminLoginPage = () => {
               onClick={() => navigate("/")}
               className="text-gray-600 hover:text-gray-800 text-sm"
             >
-              ← Quay về trang chủ
+              Quay về trang chủ
             </button>
           </div>
         </form>
 
-        <div className="mt-6 p-4 bg-gray-50 rounded-lg">
+        {/* <div className="mt-6 p-4 bg-gray-50 rounded-lg">
           <p className="text-xs text-gray-600 text-center">
             <strong>Tài khoản test:</strong>
             <br />
@@ -149,7 +149,7 @@ const AdminLoginPage = () => {
             Password:{" "}
             <code className="bg-gray-200 px-2 py-1 rounded">123456</code>
           </p>
-        </div>
+        </div> */}
       </div>
     </div>
   );
