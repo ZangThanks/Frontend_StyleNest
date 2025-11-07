@@ -2,7 +2,9 @@ import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { Eye, EyeOff } from "lucide-react";
 import { useAuth } from "../contexts/AuthContext";
-import { useData } from "../contexts/DataContext";
+import axios from "axios";
+
+const API = import.meta.env.VITE_API_URL;
 
 const AdminLoginPage = () => {
   const navigate = useNavigate();
@@ -10,8 +12,8 @@ const AdminLoginPage = () => {
   const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
   const [loginError, setLoginError] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
   const { setLoggedInAccount, loggedInAccount } = useAuth();
-  const { accounts } = useData();
 
   // Redirect nếu đã đăng nhập
   useEffect(() => {
@@ -20,23 +22,39 @@ const AdminLoginPage = () => {
     }
   }, [loggedInAccount, navigate]);
 
-  const handleLogin = (e) => {
+  const handleLogin = async (e) => {
     e.preventDefault();
+    setIsLoading(true);
+    setLoginError("");
 
-    const matchedAccount = accounts.find(
-      (acc) => acc.userName === username && acc.password === password
-    );
+    try {
+      // Gọi API login
+      const response = await axios.post(`${API}/api/accounts/login`, {
+        userName: username,
+        password: password,
+      });
 
-    if (matchedAccount) {
-      if (matchedAccount.role === "admin") {
-        setLoggedInAccount(matchedAccount);
-        console.log("Admin đăng nhập thành công!", matchedAccount);
+      const accountData = response.data;
+
+      // Kiểm tra role admin
+      if (accountData.role === "admin") {
+        setLoggedInAccount(accountData);
+        console.log("Admin đăng nhập thành công!", accountData);
         navigate("/admin/dashboard");
       } else {
         setLoginError("Tài khoản không có quyền truy cập trang quản trị");
       }
-    } else {
-      setLoginError("Tên đăng nhập hoặc mật khẩu không đúng");
+    } catch (error) {
+      console.error("Lỗi đăng nhập:", error);
+      if (error.response?.status === 401) {
+        setLoginError("Tên đăng nhập hoặc mật khẩu không đúng");
+      } else {
+        setLoginError(
+          error.response?.data?.message || "Đã xảy ra lỗi khi đăng nhập"
+        );
+      }
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -104,9 +122,10 @@ const AdminLoginPage = () => {
 
           <button
             type="submit"
-            className="w-full bg-gray-800 text-white py-3 rounded-xl hover:bg-gray-700 font-medium shadow-lg transition-all duration-200"
+            disabled={isLoading}
+            className="w-full bg-gray-800 text-white py-3 rounded-xl hover:bg-gray-700 font-medium shadow-lg transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            Đăng nhập
+            {isLoading ? "Đang đăng nhập..." : "Đăng nhập"}
           </button>
 
           <div className="text-center">
