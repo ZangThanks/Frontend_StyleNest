@@ -28,6 +28,7 @@ import Order from "./components/Order/Order";
 
 import { AuthProvider } from "./contexts/AuthContext";
 import { DataProvider } from "./contexts/DataContext";
+import ProtectedRoute from "./components/ProtectedRoute/ProtectedRoute";
 
 function App() {
   return (
@@ -58,8 +59,8 @@ function App() {
           <Route
             path="/admin"
             element={
-              <ProtectedRoute re>
-                <AdminLayout requiredRole="admin" />
+              <ProtectedRoute requiredRole="admin">
+                <AdminLayout />
               </ProtectedRoute>
             }
           >
