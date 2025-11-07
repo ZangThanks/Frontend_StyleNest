@@ -16,6 +16,7 @@ import BrandPage from "./pages/BrandPage";
 import ShoppingCartPage from "./pages/ShoppingCartPage";
 import CheckoutPage from "./pages/CheckoutPage";
 import CustomerRegistrationForm from "./components/CustomerRegistrationForm/CustomerRegistrationForm";
+import AdminLoginPage from "./pages/AdminLoginPage";
 
 // Pages (Admin)
 import Dashboard from "./components/Dashboard/Dashboard";
@@ -35,6 +36,9 @@ function App() {
     <DataProvider>
       <AuthProvider>
         <Routes>
+          {/* ADMIN LOGIN - Standalone route */}
+          <Route path="/admin/login" element={<AdminLoginPage />} />
+
           {/* USER LAYOUT */}
           <Route path="/" element={<UserLayout />}>
             <Route index element={<HomePage />} />
